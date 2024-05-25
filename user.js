@@ -1,6 +1,6 @@
 const usuarios = [
     { id: 1, nombre: "1234", contraseña: "1234", fechaVencimiento: "2024-06-01" },
-    { id: 2, nombre: "andresvpn", contraseña: "1088829889", fechaVencimiento: "2024-06-24" },
+    { id: 2, nombre: "andresvpn", contraseña: "1088829889", fechaVencimiento: "2024-04-10" },
     // Agrega más usuarios si es necesario
 ];
 
